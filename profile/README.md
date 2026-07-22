@@ -1,6 +1,6 @@
 # NSF ASCEND Engine
 
-Shared code and coordination space for work under the **NSF ASCEND Engine** (NSF Regional Innovation Engines program, Award #2315760), serving the Colorado–Wyoming region.
+Shared code and coordination space for work under the **NSF ASCEND Engine** (NSF Regional Innovation Engines program, Award #2315760).
 
 Repositories here support **ARID — Asset Resilience through Intelligent Digital Twins**, which brings together academic researchers, startups, public utilities, and government partners to build digital-twin technology for wildfire, water, and power resilience.
 
